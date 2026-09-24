@@ -15,7 +15,6 @@
         android:layout_width="231dp"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:autoText="false"
         android:text="You have clicked the button 0 times"
         android:textAlignment="center" />
 
